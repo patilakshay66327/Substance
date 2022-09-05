@@ -1,0 +1,15 @@
+.Brand-name {
+    font-size: 30px;
+    font-weight: bolder;
+    letter-spacing: 6px;
+}
+
+.navbar-collapse {
+    flex-grow: 0.7 !important;
+}
+
+.navbar-nav {
+    font-weight: 600;
+    justify-content: space-between;
+    width: 85%;
+}

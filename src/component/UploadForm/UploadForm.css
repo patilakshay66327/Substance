@@ -1,0 +1,33 @@
+.upload-form-main-div {
+    padding: 35px 10px;
+}
+
+.upload-title-btn {
+    display: flex;
+    width: 80%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Upload-btn {
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    padding: 0px 25px;
+}
+
+.upload-form-main-div .upload-title-btn h3 {
+    font-weight: 400 !important;
+}
+
+.Upload-form label {
+    padding: 10px 0px;
+    font-weight: 600 !important;
+}
+
+.Upload-form input {
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px 5px;
+    width: 40%;
+}

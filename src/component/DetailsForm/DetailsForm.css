@@ -1,0 +1,13 @@
+.form-group input{
+    margin: 10px;
+}
+
+.btn-div {
+    display: flex;
+    flex-direction: row;
+    padding: 10px 0px;
+}
+
+.btn-div button {
+    margin: 10px;
+}
